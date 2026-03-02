@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🌱 I’m currently learning CSS & C
+- 🌱 I’m currently learning C & CSS
 - ⚡ Fun fact: Aprendo CSS haciéndole páginas a mi novia
 <!--
 **Teteyee/Teteyee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
